@@ -1,4 +1,5 @@
 
+The course follows from basics to advance react concepts. This repo is just for revision of various concepts of React Js.
 
 | Course Span
 | -- 
